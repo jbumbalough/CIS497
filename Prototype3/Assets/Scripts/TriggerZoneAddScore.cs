@@ -1,4 +1,9 @@
-﻿using System.Collections;
+﻿/*
+* Josh Bumbalough
+* Prototype 3
+* Script to manage the score of the player
+*/
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

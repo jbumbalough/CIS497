@@ -1,4 +1,9 @@
-﻿using System.Collections;
+﻿/*
+* Josh Bumbalough
+* Prototype 3
+* Script to allow for player control and player effects
+*/
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

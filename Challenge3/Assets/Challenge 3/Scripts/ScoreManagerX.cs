@@ -1,4 +1,9 @@
-﻿using System.Collections;
+﻿/*
+* Josh Bumbalough
+* Challenge 3
+* Script to manage the player's score + Win/Loss conditions
+*/
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;

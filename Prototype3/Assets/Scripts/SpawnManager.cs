@@ -1,4 +1,9 @@
-﻿using System.Collections;
+﻿/*
+* Josh Bumbalough
+* Prototype 3
+* Script to spawn in obstacles
+*/
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

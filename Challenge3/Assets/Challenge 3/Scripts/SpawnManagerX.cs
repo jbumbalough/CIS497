@@ -1,4 +1,9 @@
-﻿using System.Collections;
+﻿/*
+* Josh Bumbalough
+* Challenge 3
+* Script to manage the spawns of objects
+*/
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

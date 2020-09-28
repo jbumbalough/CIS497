@@ -1,4 +1,9 @@
-﻿using System.Collections;
+﻿/*
+* Josh Bumbalough
+* Challenge 3
+* Script to make background repeat
+*/
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

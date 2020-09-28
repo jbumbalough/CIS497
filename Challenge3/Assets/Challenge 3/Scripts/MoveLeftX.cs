@@ -1,4 +1,9 @@
-﻿using System.Collections;
+﻿/*
+* Josh Bumbalough
+* Challenge 3
+* Script to make objects move left
+*/
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
