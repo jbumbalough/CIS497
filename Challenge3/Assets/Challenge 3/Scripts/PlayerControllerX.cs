@@ -36,6 +36,7 @@ public class PlayerControllerX : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        
         // While space is pressed and player is low enough, float up
         if (Input.GetKey(KeyCode.Space) && isLowEnough && !gameOver)
         {
