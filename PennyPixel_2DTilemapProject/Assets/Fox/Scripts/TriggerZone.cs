@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*Josh Bumbalough
+ *Assignment 5
+ *Script to activate win trigger
+ */
+
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

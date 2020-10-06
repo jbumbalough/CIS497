@@ -1,4 +1,8 @@
-﻿using System.Collections;
+﻿/*Josh Bumbalough
+ *Assignment 5
+ *Script to manage the bullets that are being shot
+ */
+ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
