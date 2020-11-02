@@ -1,4 +1,8 @@
-﻿using System.Collections;
+﻿/*Josh Bumbalough
+*Assignment 6
+*Controls for fast enemy type
+*/
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

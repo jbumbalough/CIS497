@@ -1,4 +1,8 @@
-﻿using System.Collections;
+﻿/*Josh Bumbalough
+*Assignment 6
+*Allows for player to control themself
+*/
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

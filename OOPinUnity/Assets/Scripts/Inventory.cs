@@ -1,4 +1,8 @@
-﻿using System.Collections;
+﻿/*Josh Bumbalough
+*Assignment 6
+*Script for inventory management(not used)
+*/
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

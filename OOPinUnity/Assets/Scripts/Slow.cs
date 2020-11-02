@@ -1,4 +1,8 @@
-﻿using System.Collections;
+﻿/*Josh Bumbalough
+*Assignment 6
+*Slow enemy type script
+*/
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

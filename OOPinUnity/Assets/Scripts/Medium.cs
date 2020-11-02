@@ -1,4 +1,8 @@
-﻿using System.Collections;
+﻿/*Josh Bumbalough
+*Assignment 6
+*Script for medium enemy type
+*/
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

@@ -1,4 +1,9 @@
-﻿using System.Collections;
+﻿/*Josh Bumbalough
+*Assignment 6
+*Structure for various enemy scripts
+*/
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
