@@ -1,4 +1,8 @@
-﻿using System.Collections;
+﻿/*Josh Bumbalough
+ *Prototype 4
+ *Manages spawns of enemies and powerup
+*/
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
