@@ -13,7 +13,7 @@ public class SpawnManagerX : MonoBehaviour
 
     public int enemyCount;
     public float enemySpeed = 50;
-    public static int waveCount = 9;
+    public static int waveCount = 1;
 
 
     public GameObject player; 
@@ -28,7 +28,7 @@ public class SpawnManagerX : MonoBehaviour
             SpawnEnemyWave(waveCount);
         }
 
-        if(waveCount == 10 && GameManager.loss != true)
+        if(waveCount == 11 && GameManager.loss != true)
         {
             GameManager.win = true;
         }

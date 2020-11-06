@@ -17,6 +17,6 @@ public class DisplayWave : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        textbox.text = "Wave " + SpawnManagerX.waveCount;
+        textbox.text = "Wave " + (SpawnManagerX.waveCount - 1);
     }
 }

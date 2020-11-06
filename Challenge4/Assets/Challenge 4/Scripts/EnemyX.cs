@@ -9,6 +9,7 @@ public class EnemyX : MonoBehaviour
     private GameObject playerGoal;
     private SpawnManagerX speedScript;
 
+
     // Start is called before the first frame update
     void Start()
     {
