@@ -1,4 +1,8 @@
-﻿using System.Collections;
+﻿/*Josh Bumbalough
+**Assignment 8
+**Manages game conditions
+*/
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using TMPro;

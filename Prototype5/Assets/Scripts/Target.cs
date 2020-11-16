@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*Josh Bumbalough
+**Assignment 8
+**Manages properties of targets on screen
+*/
+
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

@@ -1,4 +1,9 @@
-﻿using System.Collections;
+﻿/*Josh Bumbalough
+**Assignment 8
+**Script that contains properties of difficulty button
+*/
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
